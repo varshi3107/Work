@@ -2,3 +2,4 @@ Today we have to complete type script and hands on on git going good
 1.typescript start
 2.git hands on
 3.js start
+Now start focusing in the tech and kal ka exam
